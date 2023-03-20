@@ -1,0 +1,82 @@
+body {
+    margin:0%;
+    text-align: center;
+    background-color: #afecda50;
+  
+    position: relative;
+    font-family: 'roboto';
+    color:#3b3b3bff;
+
+}
+
+
+h1 {
+    width: 30%;
+    margin: 3.125rem auto 0 auto;
+    font-family:'pacifico', serif;
+    font-size: 5.625rem;;
+    color:#3b3b3bff;
+
+}
+
+h2 {
+    width: 30%;
+    margin: 0 auto;
+    font-family: 'Montserrat', serif;
+    font-weight:1000;
+    color: #083a42ff;
+    font-size: 2.5rem;
+    
+}
+
+.profile p {
+    margin:1em 0 5em 0
+}
+
+.middle-container h2 {
+    line-height: 1;
+}
+
+.skills h2 {
+    margin:1.25rem auto 1.25em auto;
+}
+
+.skills div h3 {
+    margin: 2.5rem auto 1em auto;
+    color: #1a4061ff;
+
+}
+
+
+.aTanJacket {
+    width: 40rem;
+
+}
+
+.golfImageMainPage {
+    margin:1rem 0 auto 0;
+    width:30rem;
+   
+}
+
+
+.chemistry {
+    width: 30rem;
+}
+
+.electronics {
+    width:30rem;
+}
+
+
+.newDay {
+    width: 450px;
+    margin:auto .9375rem auto 0;
+   
+}
+
+.golfImageGolfPage {
+    width: 1000px;
+   
+}
+
